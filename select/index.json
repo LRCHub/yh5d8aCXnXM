@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "やっぱ青春",
+  "base_artist": "空野葵(CV:北原沙弥香)",
+  "createdAt": "2026-03-29T13:09:18.307847Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やっぱ青春",
+      "artist": "空野葵(CV:北原沙弥香)",
+      "has_synced": false,
+      "path": "select/pl_01_やっぱ青春_空野葵(CV_北原沙弥香).txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "やっぱ青春",
+      "artist": "空野葵(CV:北原沙弥香)",
+      "has_synced": false,
+      "path": "select/localdb_01_やっぱ青春_空野葵(CV_北原沙弥香).txt",
+      "repo_name": "Ro8QCl_TwAQ"
+    }
+  ]
+}
